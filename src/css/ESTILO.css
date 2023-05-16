@@ -1,0 +1,90 @@
+* {
+    margin: 0%;
+    text-decoration: none;
+    text-align: center;
+}
+
+.menu {
+    background-color: black;
+}
+
+.menu .hab {
+    /* text-align: center; */
+    /* color: #fbfbfb; */
+}
+
+.menu .topico {
+    list-style: none;
+    text-align: center;
+    font-size: 16pt;
+
+}
+
+/* .img{
+    text-align: center;
+}
+
+.foto{
+    text-align: center;
+}
+.fim{
+    text-align: center;
+} */
+.habitat {
+    color: #fbfbfb;
+    font-size: 18pt;
+}
+
+h1 {
+    text-align: center;
+    color: #fbfbfb;
+}
+
+.sobre {
+    color: #fbfbfb;
+    font-size: 18pt;
+}
+
+body {
+    background: #575757;
+}
+
+.git .logo {
+    width: 30px;
+    filter: invert(1);
+
+}
+
+.git {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+h2 {
+    text-align: center;
+    color: #fbfbfb;
+    font-size: 20pt;
+}
+
+h3 {
+    text-align: center;
+    color: #fbfbfb;
+    font-size: 20pt;
+}
+
+h4 {
+    text-align: center;
+    color: #fbfbfb;
+    font-size: 20pt;
+}
+
+.list {
+    color: #fbfbfb;
+    font-size: 18pt;
+}
